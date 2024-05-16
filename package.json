@@ -1,13 +1,10 @@
 {
-  "name": "com.dg-goat.cave.lingjing",
-  "version": "0.0.1",
+  "name": "com.dg-goat.lingjing.cave",
+  "version": "1.0.0",
   "displayName": "Lingjing CAVE",
   "description": "灵境屏幕CAVE模块",
   "unity": "2022.2",
   "unityRelease": "5f1",
-  "dependencies": {
-    "com.dg-goat.cave.single-screen": "1.0.0"
-  },
   "author": {
     "name": "DG.GOAT",
     "email": "",
