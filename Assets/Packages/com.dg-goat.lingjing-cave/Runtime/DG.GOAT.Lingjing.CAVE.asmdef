@@ -1,0 +1,16 @@
+{
+    "name": "DG.GOAT.Lingjing.CAVE",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5272d87928d66e54aacfc8128f631fee"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
