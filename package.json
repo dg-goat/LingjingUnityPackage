@@ -1,0 +1,28 @@
+{
+  "name": "com.dg-goat.cave.lingjing",
+  "version": "0.0.1",
+  "displayName": "Lingjing CAVE",
+  "description": "灵境屏幕CAVE模块",
+  "unity": "2022.2",
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.dg-goat.cave.single-screen": "1.0.0"
+  },
+  "author": {
+    "name": "DG.GOAT",
+    "email": "",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Sample.SingleScreenCAVE",
+      "description": "演示如何使用单屏幕CAVE模块",
+      "path": "Samples~/Sample.LingjingCAVE"
+    },
+    {
+      "displayName": "Sample.LingjingCAVE",
+      "description": "演示如何使用灵境屏幕CAVE模块",
+      "path": "Samples~/Sample.LingjingCAVE"
+    }
+  ]
+}
